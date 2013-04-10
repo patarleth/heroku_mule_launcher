@@ -168,6 +168,7 @@ pip-log.txt
 
 # maven
 */target/*
+target/*
 
 # nodejs/npm
 */node_modules/*
